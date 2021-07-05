@@ -10,6 +10,7 @@ Meu sonho é eu tornar um **desenvolvedor Full-Stack** e trabalhar fora do Brasi
 ### 💻 Tecnologias que estudo:
 
 🟧 HTML5 / 🟦 CSS3 
+
 🟪 Python
 
 
