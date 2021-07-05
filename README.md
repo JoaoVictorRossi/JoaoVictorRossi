@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello Word!🌍
 
 Meu nome é João Victor Rossi, sou " viciado " em tecnologia deis de criança, estou começando na área de programação com 17 anos e quero entrar na faculdade ano que vem (2022) com 18 anos.
