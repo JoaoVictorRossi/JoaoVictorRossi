@@ -16,5 +16,5 @@ Meu sonho é me tornar um **desenvolvedor Full-Stack** e trabalhar fora do Brasi
 
 ### 📎 Editores que utilizo:
 
-⚫ VScode
+⚫ VSCode
 🟣 Pycharm
