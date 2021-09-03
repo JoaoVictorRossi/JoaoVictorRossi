@@ -1,8 +1,8 @@
-# Hello World!🌍
+## Hi! I'm João Victor Rossi🕹️
 ---
-Meu nome é João Victor Rossi, sou " viciado " em tecnologia deis de criança, estou começando na área de programação com 17 anos e quero entrar na faculdade ano que vem (2022) com 18 anos.
+Hello, My name is João Victor, I am " addicted " to technology since I was a kid, I'm starting in the programming area with 17 years!😁 I am from Brazil,São Paulo, the Mogi das Cruzes city.
 
-Meu sonho é me tornar um "**Full-Stack Developer**" e trabalhar fora do Brasil.
+My dream is to become a "** Full-Stack Developer **" and work outside Brazil.
 
 
 ### "Aprenda como se você fosse viver para sempre."🔥
