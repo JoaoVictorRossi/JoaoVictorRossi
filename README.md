@@ -14,5 +14,7 @@ My dream is work outside Brazil.
 ### 📎 Editores que utilizo:
 
 ⚫ VSCode;
+
 🟢 AndroidStudio;
+
 🟣 IntelliJ IDEA;
