@@ -1,5 +1,4 @@
 ## Me chamo João Victor, futuro desenvolvedor de software! ##
----
 
 <div align="center">
   <a href=https://github.com/JoaoVictorRossi>
@@ -11,7 +10,6 @@
   <img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">   
   <img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-          
 </div>  
   
 ##
